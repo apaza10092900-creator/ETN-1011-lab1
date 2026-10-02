@@ -1,11 +1,11 @@
 # Laboratorio 1 — Redes virtuales con Linux
 # ETN-1011 LABORATORIO
 ## 1. Datos del estudiante y del entorno
-* **Nombre:** Apaza Queso Gaston Jhonny[cite: 1]
-* **Carrera / Materia:** Ingeniería Electrónica / ETN1011 - Laboratorio de Sistemas de Comunicación II[cite: 1, 2]
-* **Universidad:** Universidad Mayor de San Andrés (UMSA)[cite: 1]
+* **Nombre:** Apaza Queso Gaston Jhonny
+* **Carrera / Materia:** Ingeniería Electrónica / ETN1011 - Laboratorio de Sistemas de Comunicación II
+* **Universidad:** Universidad Mayor de San Andrés (UMSA)
 * **Fecha:** 2026-09-29
-* **Entorno de trabajo:** WSL2 (Ubuntu / Debian)[cite: 2]
+* **Entorno de trabajo:** WSL2 (Ubuntu / Debian)
 
 ---
 
