@@ -1,5 +1,5 @@
 # Laboratorio 1 — Redes virtuales con Linux
-
+# ETN-1011 LABORATORIO
 ## 1. Datos del estudiante y del entorno
 * **Nombre:** Apaza Queso Gaston Jhonny[cite: 1]
 * **Carrera / Materia:** Ingeniería Electrónica / ETN1011 - Laboratorio de Sistemas de Comunicación II[cite: 1, 2]
